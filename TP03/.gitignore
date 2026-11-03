@@ -1,0 +1,8 @@
+# Raw data (too large for GitHub)
+*.csv
+archive*/
+big_data*/
+*.zip
+
+# Full Power BI file with data (use TP03.pbit instead)
+*.pbix
